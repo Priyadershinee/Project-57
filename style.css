@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background: Linear-gradient(#eeaeca 0%, #94bbe9 100%);
+    background-repeat: no-repeat;
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 30%;
+    border: 4px solic crimson;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+p {
+    font-size: 18px;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+#hobby {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: monospace;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    width: 400px;
+}
+}
+.parellex-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;}
